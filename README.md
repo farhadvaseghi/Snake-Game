@@ -1,6 +1,13 @@
 
 # Snake Game Using Pygame module
-![cover_image](https://user-images.githubusercontent.com/54831801/189363633-e9bfc6ec-bbea-480d-b2f7-5337e445ee2c.png)
+
+<p align="center">
+<kbd>
+   <img src="https://user-images.githubusercontent.com/54831801/189363633-e9bfc6ec-bbea-480d-b2f7-5337e445ee2c.png"  width="700" height="500">
+</kbd>
+
+</p>
+
 
 Snake game is one of the most popular arcade games of all time. In this game, the main objective of the player is to catch the maximum number of fruits without hitting the wall or itself.
 ## Requirements  
