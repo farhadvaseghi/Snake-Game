@@ -11,7 +11,8 @@ pip install pygame
 After installing Pygame we are ready to create our cool snake game.
 ## Usage
 ```bash
-git clone https://github.com/farhadvaseghi/Snake-Game
+
+git clone https://github.com/farhadvaseghi/Snake-Game.git
 cd Snake-Game
 python main.py
 ```
