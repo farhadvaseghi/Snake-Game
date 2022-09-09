@@ -17,4 +17,8 @@ cd Snake-Game
 python main.py
 ```
 ## Demo
-![Screenshot_game](https://user-images.githubusercontent.com/54831801/189363170-b12c3c46-0a3d-4a71-8f40-ed1f86ae5908.png)
+<p align="center">
+ <kbd>
+   ![Screenshot_game](https://user-images.githubusercontent.com/54831801/189363170-b12c3c46-0a3d-4a71-8f40-ed1f86ae5908.png)
+</kbd>
+</p>
